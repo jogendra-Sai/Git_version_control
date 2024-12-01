@@ -22,3 +22,6 @@ git log (Used to check commits info)
   => commit-3 (jhfjfdgfhgjkfdjfgjgj&h)
   => You need to resore code up to commit-3 
   => Use git reset jhfjfdgfhgjkfdjfgjgj&h
+//For Example you are implementing a new functionality and you want the code some where and want to get clean code base
+  => git stash
+  => git stash pop(to get back stashed changes)
