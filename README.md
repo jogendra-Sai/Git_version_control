@@ -25,3 +25,5 @@ git log (Used to check commits info)
 //For Example you are implementing a new functionality and you want the code some where and want to get clean code base
   => git stash
   => git stash pop(to get back stashed changes)
+
+git remote add origin URL(used to attach remote repo to project)  
