@@ -27,3 +27,19 @@ git log (Used to check commits info)
   => git stash pop(to get back stashed changes)
 
 git remote add origin URL(used to attach remote repo to project)  
+
+git branch feature
+
+git checkout feature(here feature is branch)
+
+
+//After Forking 
+git clone https://github.com/jogendra-Sai/people.git
+
+PS C:\Users\jogendrasaibabu.n\Desktop\Shift\Git Clone> git remote add upstream https://github.com/cncf/people.git (this the branch from where we forked the project)
+PS C:\Users\jogendrasaibabu.n\Desktop\Shift\Git Clone\people> git remote -v
+origin  https://github.com/jogendra-Sai/people.git (fetch)
+origin  https://github.com/jogendra-Sai/people.git (push)
+upstream        https://github.com/cncf/people.git (fetch)
+upstream        https://github.com/cncf/people.git (push)
+PS C:\Users\jogendrasaibabu.n\Desktop\Shift\Git Clone\people> 
